@@ -1,0 +1,83 @@
+{
+  "inspections": [
+    {
+      "id": 1,
+      "title": "Food Inspection",
+      "icon": "restaurant",
+      "categories": [
+        {
+          "id": 1,
+          "title": "Food",
+          "icon": "food",
+          "subCategories": [
+            { "id": 1, "title": "New", "icon": "new" },
+            { "id": 2, "title": "Incomplete", "icon": "incomplete" },
+            { "id": 3, "title": "Schedule", "icon": "schedule" }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Temp Food",
+          "icon": "temp_food",
+          "subCategories": [
+            { "id": 1, "title": "New", "icon": "new" },
+            { "id": 2, "title": "Incomplete", "icon": "incomplete" },
+            { "id": 3, "title": "Schedule", "icon": "schedule" }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Mobile Food",
+          "icon": "mobile_food",
+          "subCategories": [
+            { "id": 1, "title": "New", "icon": "new" },
+            { "id": 2, "title": "Incomplete", "icon": "incomplete" },
+            { "id": 3, "title": "Schedule", "icon": "schedule" }
+          ]
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": 2,
+      "title": "Tobacco Inspection",
+      "icon": "tobacco",
+      "categories": [],
+      "subCategories": [
+        { "id": 1, "title": "New", "icon": "new" },
+        { "id": 2, "title": "Incomplete", "icon": "incomplete" },
+        { "id": 3, "title": "Schedule", "icon": "schedule" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Nursing Inspection",
+      "icon": "nursing",
+      "categories": [],
+      "subCategories": [
+        { "id": 1, "title": "New", "icon": "new" },
+        { "id": 2, "title": "Incomplete", "icon": "incomplete" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pool Inspection",
+      "icon": "pool",
+      "categories": [],
+      "subCategories": [
+        { "id": 1, "title": "New", "icon": "new" },
+        { "id": 2, "title": "Incomplete", "icon": "incomplete" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Complaint Inspection",
+      "icon": "complaint",
+      "categories": [],
+      "subCategories": [
+        { "id": 1, "title": "New", "icon": "new" },
+        { "id": 2, "title": "Incomplete", "icon": "incomplete" }
+      ]
+    }
+  ]
+}
